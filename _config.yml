@@ -1,4 +1,4 @@
 markdown: GFM
 navigation:
-  - name:  "home"
-    href: "/menu.html"
+  - title:  "home"
+    utl: "/menu.html"
