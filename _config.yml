@@ -1,4 +1,3 @@
 markdown: GFM
-navigation:
-  - title:  "home"
-    utl: "/menu.html"
+header_pages:
+  - menu.md
