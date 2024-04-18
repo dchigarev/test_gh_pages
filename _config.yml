@@ -1,1 +1,4 @@
 markdown: GFM
+nav:
+  - name:  "home"
+    href: "menu.html"
