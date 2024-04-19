@@ -1,6 +1,4 @@
 markdown: GFM
 theme: minima
-navigation:
-  - title: "Menu"
-    url: "/menu.html"
-
+header_pages:
+  - menu.md
