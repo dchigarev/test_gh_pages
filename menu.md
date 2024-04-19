@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 Some text
 
 1. [Page1](page1.md)
