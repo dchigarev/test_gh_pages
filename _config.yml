@@ -1,5 +1,5 @@
 markdown: GFM
-thema: minima
+theme: minima
 navigation:
   - title: "Menu"
     url: "/menu.html"
