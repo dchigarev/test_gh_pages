@@ -3,4 +3,3 @@ plugins:
   - jekyll-feed
 header_pages:
   - menu.md
-  - about.md
